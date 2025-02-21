@@ -1,0 +1,1 @@
+This is a basic prototype of a Sign Language Interpreter built using Python. It uses a webcam to detect hand and finger positions and recognizes American Sign Language (ASL) alphabets in real time. The model processes the hand gestures and displays the corresponding letter on the screen.
